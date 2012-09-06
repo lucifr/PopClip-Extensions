@@ -10,6 +10,8 @@ This is a collection of extension(s) I created for [PopClip][2].
 
 		defaults write com.pilotmoon.popclip LoadUnsignedExtensions -bool YES
 
+	Restart PopClip to make it work.
+
 1.	Download the desired extension in the **Available Extension** section below.
 
 1.	Double click the downloaded .popclipextz file to install.
