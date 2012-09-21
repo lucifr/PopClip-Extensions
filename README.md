@@ -25,6 +25,16 @@ This is a collection of extension(s) I created for [PopClip][2].
 Search the selected word(s) with Google's "[I'm Feeling Lucky][3]" query, which will return the first search result.
 
 Download: [ImFeelingLucky.popclipextz][4]
+
+## GTranslate Popup ##
+
+![GTranslate Popup](http://f.cl.ly/items/1L14442X3i1f281x0L2W/google_translate_popup.png)
+
+This is a fork of the original Google Translate extension. Rather than open Google Traslate page in your browser, Granslate Popup will bring up popup window instead. You can select text (e.g. the translated text) in the popup window and click OK, the selected text will be copied to your clipboard.
+
+Download: [GoogleTranslatePopup.zip](https://github.com/downloads/lucifr/PopClip-Extensions/GoogleTranslatePopup.zip)
+
+NOTE: you have to install the service **Google Translate.workflow** by double clicking it.
 	
 
 [1]: https://github.com/lucifr/PopClip-Extensions/downloads "Downloads · lucifr/PopClip-Extensions"
