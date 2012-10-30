@@ -40,6 +40,8 @@ NOTE: you have to install the service **Google Translate.workflow** by double cl
 
 ## Full Half Width ##
 
+![Full Half Width](https://raw.github.com/lucifr/PopClip-Extensions/master/FullHalfWidth.popclipext/FullHalfWidth.png)
+
 This Extension will convert fullwidth characters in the selected text to halfwidth ones and vise versa. Check the Wikipedia page to learn more about [fullwidth and halfwidth forms][5].
 
 Download: [FullHalfWidth.popclipextz][6]
