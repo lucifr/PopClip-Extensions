@@ -26,6 +26,8 @@ Search the selected word(s) with Google's "[I'm Feeling Lucky][3]" query, which 
 
 Download: [ImFeelingLucky.popclipextz][4]
 
+**UPDATE**: "I'm Feeling Lucky" extension has already been added to the [official extensions collection][7].
+
 ## GTranslate Popup ##
 
 ![GTranslate Popup](http://f.cl.ly/items/1L14442X3i1f281x0L2W/google_translate_popup.png)
@@ -35,9 +37,17 @@ This is a fork of the original Google Translate extension. Rather than open Goog
 Download: [GoogleTranslatePopup.zip](https://github.com/downloads/lucifr/PopClip-Extensions/GoogleTranslatePopup.zip)
 
 NOTE: you have to install the service **Google Translate.workflow** by double clicking it.
-	
+
+## Full Half Width ##
+
+This Extension will convert fullwidth characters in the selected text to halfwidth ones and vise versa. Check the Wikipedia page to learn more about [fullwidth and halfwidth forms][5].
+
+Download: [FullHalfWidth.popclipextz][6]
 
 [1]: https://github.com/lucifr/PopClip-Extensions/downloads "Downloads · lucifr/PopClip-Extensions"
 [2]: http://pilotmoon.com/popclip/ "PopClip"
 [3]: http://en.wikipedia.org/wiki/Google_Search#.22I.27m_Feeling_Lucky.22 "I'm Feeling Lucky"
 [4]: https://github.com/downloads/lucifr/PopClip-Extensions/ImFeelingLucky.popclipextz
+[5]: http://en.wikipedia.org/wiki/Halfwidth_and_fullwidth_forms
+[6]: https://github.com/downloads/lucifr/PopClip-Extensions/FullHalfWidth.popclipextz
+[7]: http://pilotmoon.com/popclip/extensions/
