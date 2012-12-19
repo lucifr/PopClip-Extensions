@@ -9,6 +9,8 @@
 			<string>paste-result</string>
 			<key>Image File</key>
 			<string>half.png</string>
+			<key>Regular Expression</key>
+			<string>^.*[　！＂＃＄％＆＇（）＊＋，－．／０-９：；＜＝＞？＠Ａ-Ｚ［＼］＾＿｀ａ-ｚ｛｜｝～｟｠￠￡￢￣￤￥￦│←↑→↓■○。「」、・ヲァィゥェォャュョッーアイウエオカキクケコサシスセソタチツテトナニヌネノハヒフヘホマミムメモヤユヨラリルレロワン゛゜ㄱㄲㄳㄴㄵㄶㄷㄸㄹㄺㄻㄼㄽㄾㄿㅀㅁㅂㅃㅄㅅㅆㅇㅈㅉㅊㅋㅌㅍㅎㅏㅐㅑㅒㅓㅔㅕㅖㅗㅘㅙㅚㅛㅜㅝㅞㅟㅠㅡㅢㅣ].*$</string>
 			<key>Script Interpreter</key>
 			<string>/usr/bin/perl</string>
 			<key>Shell Script File</key>
@@ -21,6 +23,8 @@
 			<string>paste-result</string>
 			<key>Image File</key>
 			<string>full.png</string>
+			<key>Regular Expression</key>
+			<string>^.*[ !"#$%&amp;'()*+,-.\/0-9:;&lt;=&gt;?@A-Z\[\\\]^_`a-z{|}\~⦅⦆¢£¬¯¦¥₩￨￩￪￫￬￭￮｡｢｣､･ｦｧｨｩｪｫｬｭｮｯｰｱｲｳｴｵｶｷｸｹｺｻｼｽｾｿﾀﾁﾂﾃﾄﾅﾆﾇﾈﾉﾊﾋﾌﾍﾎﾏﾐﾑﾒﾓﾔﾕﾖﾗﾘﾙﾚﾛﾜﾝﾞﾟﾡﾢﾣﾤﾥﾦﾧﾨﾩﾪﾫﾬﾭﾮﾯﾰﾱﾲﾳﾴﾵﾶﾷﾸﾹﾺﾻﾼﾽﾾￂￃￄￅￆￇￊￋￌￍￎￏￒￓￔￕￖￗￚￛￜ].*$</string>
 			<key>Script Interpreter</key>
 			<string>/usr/bin/perl</string>
 			<key>Shell Script File</key>
