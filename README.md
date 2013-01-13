@@ -42,9 +42,15 @@ NOTE: you have to install the service **Google Translate.workflow** by double cl
 
 ![Full Half Width](https://raw.github.com/lucifr/PopClip-Extensions/master/FullHalfWidth.popclipext/FullHalfWidth.png)
 
-This Extension will convert fullwidth characters in the selected text to halfwidth ones and vise versa. Check the Wikipedia page to learn more about [fullwidth and halfwidth forms][5].
+This extension will convert fullwidth characters in the selected text to halfwidth ones and vise versa. Check the Wikipedia page to learn more about [fullwidth and halfwidth forms][5].
 
 Download: [FullHalfWidth.popclipextz][6]
+**UPDATE**: "Full Half Width" extension has already been added to the [official extensions collection][7].
+
+### Word Count+ ###
+
+This extension will show the number of words in the selected text. It supports to both latin words and CJK characters (Chinese/Japanese/Korean). Select some text and click on the "Σwords" button.
+
 
 [1]: https://github.com/lucifr/PopClip-Extensions/downloads "Downloads · lucifr/PopClip-Extensions"
 [2]: http://pilotmoon.com/popclip/ "PopClip"

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<integer>2</integer>
+	<key>Extension Name</key>
+	<string>Word Count+</string>
+	<key>Extension Identifier</key>
+	<string>com.lucifr.popclip.extension.wordcountplus</string>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Shell Script File</key>
+			<string>wordcountplus.py</string>
+			<key>Script Interpreter</key>
+			<string>/usr/bin/python</string>
+			<key>Title</key>
+			<string>Σwords</string>
+			<key>After</key>
+			<string>show-result</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>Show the number of words in the selected text with support to both latin words and CJK characters.</string>
+</dict>
+</plist>
