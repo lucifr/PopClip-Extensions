@@ -10,8 +10,14 @@ def main():
 	cjkReg = re.compile(u'[\u1100-\uFFFD]+?')
 	trimedCJK = cjkReg.sub( ' a ', data, 0)
 	wordCount = len(trimedCJK.split())
+	charCount = len(''.join(trimedCJK.split()))
 	if wordCount > 1:
-		print str(wordCount) + ' words'
+		wordCount = str(wordCount) + ' words'
 	else:
-		print str(wordCount) + ' word'
+		wordCount = str(wordCount) + ' word'
+	if charCount > 1:
+		charCount = str(charCount) + ' characters'
+	else:
+		charCount = str(charCount) + ' character'
+	print wordCount + ', ' + charCount
 main()
