@@ -48,9 +48,11 @@ Download: [FullHalfWidth.popclipextz][6]
 
 **UPDATE**: "Full Half Width" extension has already been added to the [official extensions collection][7].
 
-### Word Count+ ###
+## Word Count+ ##
 
-This extension will show the number of words in the selected text. It supports to both latin words and CJK characters (Chinese/Japanese/Korean). Select some text and click on the "Σwords" button.
+![Word Count+](https://raw.github.com/lucifr/PopClip-Extensions/master/WordCountPlus.popclipext/WordCountPlus.png)
+
+This extension will show the number of words and characters in the selected text. It supports to both latin words and CJK characters (Chinese/Japanese/Korean).
 
 Download: [WordCountPlus.popclipextz][8]
 
